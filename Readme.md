@@ -10,8 +10,10 @@
         />
         <img src="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true" />
     </picture>
+</div>
 
-<picture>
+<div align="center">
+    <picture>
         <source 
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&layout=compact&theme=dark"
         media="(prefers-color-scheme: dark)"
