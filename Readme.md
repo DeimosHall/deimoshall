@@ -9,19 +9,9 @@ I'm a software developer specializing in low-level system programming, with a st
 - 💬 Ask me about **C/C++**
 
 <div align="center">
-    <picture    >
-        <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true&theme=dark&count_privattrue&hide=issues&border_radius=20"
-        media="(prefers-color-scheme: dark)"
-        />
-        <source
-        srcset="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true&count_privattrue&hide=issues&border_radius=20"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=deimoshall" />
-    </picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true&count_privattrue&hide=issues&border_radius=20&theme=tokyonight" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&exclude_repo=js-course&border_radius=20&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&exclude_repo=js-course&border_radius=20&theme=tokyonight">
 </div>
