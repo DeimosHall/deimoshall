@@ -1,6 +1,6 @@
-<h3 align="left">Hi there 👋 I'm Deimos Hall</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /></h3>
+<h3 align="left">Hi there 👋 I'm Francisco Torres</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /></h3>
 
-I'm a software developer specializing in low-level system programming, with a strong focus on performance and efficiency. My expertise includes programming languages such as Rust and C/C++.
+I'm a software developer specializing in low-level system programming, with a strong focus on performance and efficiency. My expertise includes programming languages such as Rust, C/C++ and Kotlin.
 
 - 🔭 I’m currently working on [**My Website**](https://deimoshall.dev). Check it out!
 - 🌱 I’m currently learning **Rust**
@@ -11,27 +11,27 @@ I'm a software developer specializing in low-level system programming, with a st
 <div align="center">
     <picture    >
         <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true&theme=dark&count_privattrue&hide=issues&border_radius=20"
         media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true&count_privattrue&hide=issues&border_radius=20"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true&" />
     </picture>
 </div>
 
 <div align="center">
     <picture>
         <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&layout=compact&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&theme=dark&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&border_radius=20&exclude_repo=js-course"
         media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&layout=compact"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&border_radius=20&exclude_repo=js-course"
+        media="(prefers-color-scheme: light),(prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall" />
     </picture>
 </div>
