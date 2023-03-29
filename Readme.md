@@ -36,22 +36,8 @@ I'm a software developer specializing in low-level system programming, with a st
     </picture>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&exclude_repo=js-course&border_radius=20">
-</div>
-
-This is a test
+Test
 
 <div align="center">
-    <picture>
-        <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&theme=dark&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&exclude_repo=js-course&border_radius=20"
-        media="(prefers-color-scheme: dark)"
-        />
-        <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&exclude_repo=js-course&border_radius=20"
-        media="(prefers-color-scheme: light),(prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&exclude_repo=js-course&border_radius=20" />
-    </picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&exclude_repo=js-course&border_radius=20#gh-dark-mode-only">
 </div>
