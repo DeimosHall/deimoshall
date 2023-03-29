@@ -35,3 +35,5 @@ I'm a software developer specializing in low-level system programming, with a st
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&exclude_repo=js-course&border_radius=20" />
     </picture>
 </div>
+
+![H](https://github-readme-stats.vercel.app/api/top-langs/?username=deimoshall&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&exclude_repo=js-course&border_radius=20)
