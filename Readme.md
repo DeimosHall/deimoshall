@@ -18,7 +18,7 @@ I'm a software developer specializing in low-level system programming, with a st
         srcset="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true&count_privattrue&hide=issues&border_radius=20"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=deimoshall&show_icons=true&" />
+        <img src="https://github-readme-stats.vercel.app/api?username=deimoshall" />
     </picture>
 </div>
 
