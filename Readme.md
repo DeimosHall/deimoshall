@@ -6,11 +6,11 @@ My daily work focuses on:
 
 - 📖 Writing at [**my website**](https://deimoshall.dev/)
 - 💻 Contributing to **Open Source Projects**
-- 🌍 Castographer at **OpenStreetMap**
+- 🌍 Mapping on **OpenStreetMap**
 
 ## My open source projects:
 
-- [random_str](https://crates.io/crates/random_str) - A Rust library to generate random strings, chars, booleans, and integers. It currently has +8,000 downloads.
+- [random_str](https://crates.io/crates/random_str) - A Rust library to generate random strings, chars, booleans, and integers. It currently has +14,000 downloads.
 
 ## My GitHub Stats
 
